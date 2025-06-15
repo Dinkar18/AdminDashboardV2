@@ -31,7 +31,7 @@ The project was originally built using **JavaScript (JSX)** and has now been suc
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/react-admin-dashboard.git
-cd react-admin-dashboard
+git clone https://github.com/Dinkar18/AdminDashboardV2.git
+cd AdminDashboardV2
 npm install
 npm run dev
